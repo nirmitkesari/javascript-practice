@@ -9,5 +9,8 @@ function sum(x, y)
     s=x+y;
     return s;
 }
-let val=sum(3,6);
-console.log(val);
+let val1=sum(3,6);
+console.log(val1);
+
+// hello world
+ // hello wor;sll
